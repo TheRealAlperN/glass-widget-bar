@@ -51,7 +51,7 @@ machine-assisted, corrections are welcome.
   frame comes from. If your wallpaper is very bright, raise the opacity.
 - The music widget reads the Windows media session, so every app that
   publishes one is shown.
-- Tested on Windows 11, 64-bit.
+- Developed on Windows 11 (64-bit).
 
 ## Credits and license
 The frame (rounded "squircle" corners, edge glow and edge lines) is ported

@@ -36,7 +36,7 @@ That is 28 languages. Other display languages fall back to English. The first da
 - Settings: language, position (top or bottom center), layer, distance from the screen edge, frame opacity and blur.
 - Works on the primary monitor only, and expects a picture wallpaper. If your wallpaper is very bright, raise the frame opacity.
 - The music widget reads the Windows media session, so every app that publishes one is shown.
-- Tested on Windows 11 (64-bit).
+- Developed on Windows 11 (64-bit).
 
 ## Contributing
 
