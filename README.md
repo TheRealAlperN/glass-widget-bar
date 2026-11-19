@@ -2,7 +2,7 @@
 
 A [Windhawk](https://windhawk.net) mod that puts a frosted-glass widget bar on your Windows desktop: an analog **clock**, a **calendar** and **music controls**, all drawn inside one blurred-wallpaper glass frame.
 
-![Glass Widget Bar in English, Turkish, German and Japanese, with the optional weather widget](screenshots/glass-widget-bar.gif)
+![Glass Widget Bar in English, Turkish, German and Japanese, with the optional weather widget](screenshots/glass-widget-bar-weather.gif)
 
 | Widget | What it does |
 | --- | --- |
